@@ -1,5 +1,4 @@
 ShapesSlider
 ============
 
-A SVG shape slider
-A demo can be found at http://glio.co.xa/showcase/ShapesSlider
+A SVG shape slider. Find the demo at http://glio.co.xa/showcase/ShapesSlider
